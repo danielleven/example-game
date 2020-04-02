@@ -1,2 +1,2 @@
-# example-game
+# Example Game
 Skill brushup
