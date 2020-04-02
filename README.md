@@ -1,2 +1,2 @@
 # Example Game
-Skill brushup
+Skill brushup code
